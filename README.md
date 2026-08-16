@@ -24,7 +24,8 @@
 
 ## 怎么用
 
-- **给 AI agent 用**：见 [AGENTS.md](./AGENTS.md)，主流 agent（Claude Code / Cursor / Codex / Copilot）会自动读取。
+- **Claude Code 用户**：把仓库 clone 到 `~/.claude/skills/timing/`，在对话里输入 `/timing` 就能调用。见 [SKILL.md](./SKILL.md)。
+- **其他 agent**：见 [AGENTS.md](./AGENTS.md)，主流 agent（Claude Code / Cursor / Codex / Copilot）会自动读取。
 - **自己用**：照着上面三个问题，一问一答走一遍。
 
 ## 一句话
